@@ -1,6 +1,6 @@
 coverage/**
 jest.config.js
 node_modules/**/*.js
-
+spec/**
 
 
